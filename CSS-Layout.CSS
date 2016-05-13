@@ -2,5 +2,10 @@ body {
 	font-family: Arial;
 	font.size: 12px;
 	text-align: center;
+
+}
+ul li {
+	display: inline;
+	list-style-type: none;
 }
 
