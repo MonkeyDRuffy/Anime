@@ -1,4 +1,15 @@
 
+header {
+	border-style: solid;
+	border : 5px;
+	border-color: black;
+	margin-right: 750px;
+	margin-left:700px;
+	background-image: url(header2.jpg);
+	height: 168px;
+}
+
+
 body {
     font-weight: bold;
 	font-family: Arial;
@@ -7,9 +18,65 @@ body {
 	background-image: url(https://i.ytimg.com/vi/XBlRVp6cs30/maxresdefault.jpg);
 	
 }
-div.menu ul li {
-	display: inline;
-	list-style-type: none;
+
+	#menu {
+  font-size:14px;
+  position:absolute;
+  margin-left: 750px;
+
+}
+
+#menu ul {
+  list-style-type:none;
+  list-style-image:none;
+  margin:0px;
+  padding:0px;
+}
+
+#menu li.hauptmenu {
+  float:left;
+}
+
+.hauptmenu a {
+  float:left;
+  width:110px;
+  text-align:center;
+}
+
+.hauptmenu ul{
+  display:none;
+
+}
+
+.hauptmenu a, .untermenu a{
+  padding:1px 5px;
+  border:1px solid black;
+  border-collapse:collapse;
+  color:#ff1493;
+  font-weight:bold;
+  text-decoration:none;
+  background-color:#0000ff;
+  margin: 0px;  
+}
+
+.untermenu a{
+  font-size:12px;
+  width:110px;
+  position:relative;
+  clear:both; 
+}
+
+#menu a:hover, .hauptmenu.on a {
+  color:#000000;
+  background-color: #00008b;
+}
+
+.hauptmenu:hover ul {
+  display:block;  
+  z-index:500;
+}
+	
+
 
 	
 	
@@ -27,11 +94,15 @@ div.GenreList ul li {
     
 }
 div.text { 
-background-image: url(http://blog.websitetemplates.bz/wp-content/uploads/2012/02/3_dotted_website_texture.jpg);
+background-image: url(http://wallpapercave.com/wp/ucwC6G9.png);
 margin-left: 200px;
 margin-right: 200px;
 padding:10px;
- }
+border-width:2px;
+border-color: silver;
+border-style: inset;
+border-radius: 10px;
+}
 
 
 
