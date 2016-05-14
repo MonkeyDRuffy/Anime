@@ -1,27 +1,37 @@
+
 body {
-
+    font-weight: bold;
 	font-family: Arial;
-	font.size: 12px;
+	font.size: 30px;
 	text-align: center;
-
-
+	background-image: url(https://i.ytimg.com/vi/XBlRVp6cs30/maxresdefault.jpg);
+	
 }
-ul li {
+div.menu ul li {
 	display: inline;
 	list-style-type: none;
+
+	
+	
 }
 
-div.GenreList li { 
-	table-layout:auto; 
-	border-collapse;
+div.GenreList ul li { 
+	display: inline;
 	background-color: black;
 	margin-top: 50px;
-	margin-left:5px;
-    margin-right:5px;
+	margin-left:50px;
+    margin-right:50px;
     margin-bottom:50px;
     padding: 10px;
-
-
+    list-style-type: none;
+    
+}
+div.text { 
+background-image: url(http://blog.websitetemplates.bz/wp-content/uploads/2012/02/3_dotted_website_texture.jpg);
+margin-left: 200px;
+margin-right: 200px;
+padding:10px;
+ }
 
 
 
