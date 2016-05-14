@@ -1,11 +1,27 @@
 body {
+
 	font-family: Arial;
 	font.size: 12px;
 	text-align: center;
+
 
 }
 ul li {
 	display: inline;
 	list-style-type: none;
 }
+
+div.GenreList li { 
+	table-layout:auto; 
+	border-collapse;
+	background-color: black;
+	margin-top: 50px;
+	margin-left:5px;
+    margin-right:5px;
+    margin-bottom:50px;
+    padding: 10px;
+
+
+
+
 
