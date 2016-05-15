@@ -1,12 +1,14 @@
 
 header {
-	border-style: solid;
-	border : 5px;
-	border-color: black;
-	margin-right: 750px;
+	margin-right: 700px;
 	margin-left:700px;
-	background-image: url(header2.jpg);
+	background-image: url(header3.jpg);
 	height: 168px;
+  cursor: pointer;
+  outline: 1px;
+  outline-color: black;
+  outline-style: inset;
+  
 }
 
 
@@ -23,6 +25,7 @@ body {
   font-size:14px;
   position:absolute;
   margin-left: 750px;
+  
 
 }
 
@@ -55,7 +58,7 @@ body {
   color:#ff1493;
   font-weight:bold;
   text-decoration:none;
-  background-color:#0000ff;
+  background-color:#0000ff ;
   margin: 0px;  
 }
 
@@ -76,23 +79,6 @@ body {
   z-index:500;
 }
 	
-
-
-	
-	
-}
-
-div.GenreList ul li { 
-	display: inline;
-	background-color: black;
-	margin-top: 50px;
-	margin-left:50px;
-    margin-right:50px;
-    margin-bottom:50px;
-    padding: 10px;
-    list-style-type: none;
-    
-}
 div.text { 
 background-image: url(http://wallpapercave.com/wp/ucwC6G9.png);
 margin-left: 200px;
@@ -103,6 +89,7 @@ border-color: silver;
 border-style: inset;
 border-radius: 10px;
 }
+
 
 
 
