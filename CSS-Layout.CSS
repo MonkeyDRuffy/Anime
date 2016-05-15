@@ -17,14 +17,16 @@ body {
 	font-family: Arial;
 	font.size: 30px;
 	text-align: center;
-	background-image: url(https://i.ytimg.com/vi/XBlRVp6cs30/maxresdefault.jpg);
+	background-image: url(hintergrundNormal.jpg);
+  background-position: center center;
 	
 }
 
 	#menu {
-  font-size:14px;
+  font-size:16px;
   position:absolute;
   margin-left: 750px;
+  z-index: 1;
   
 
 }
@@ -43,6 +45,8 @@ body {
 .hauptmenu a {
   float:left;
   width:110px;
+  height: 30px;
+  padding-top: 15px;
   text-align:center;
 }
 
@@ -52,7 +56,7 @@ body {
 }
 
 .hauptmenu a, .untermenu a{
-  padding:1px 5px;
+ 
   border:1px solid black;
   border-collapse:collapse;
   color:#ff1493;
@@ -63,8 +67,10 @@ body {
 }
 
 .untermenu a{
-  font-size:12px;
+  font-size:13px;
+  padding-top: 10px;
   width:110px;
+  height:20px;
   position:relative;
   clear:both; 
 }
@@ -80,16 +86,20 @@ body {
 }
 	
 div.text { 
+
+
+
+}
+div.rahmen {
 background-image: url(http://wallpapercave.com/wp/ucwC6G9.png);
-margin-left: 200px;
-margin-right: 200px;
-padding:10px;
 border-width:2px;
 border-color: silver;
 border-style: inset;
 border-radius: 10px;
+opacity: 0.9;
+margin-top:45px;
+margin-left: 200px;
+margin-right: 200px;
+padding:10px;
 }
-
-
-
 
