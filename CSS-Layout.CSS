@@ -20,13 +20,11 @@ body {
 	
 }
 
-	#menu {
+#menu {
   font-size:16px;
   position:absolute;
-  margin-left: 750px;
+  margin-left:600px;
   z-index: 1;
-  
-
 }
 
 #menu ul {
@@ -61,7 +59,7 @@ body {
   font-weight:bold;
   text-decoration:none;
   background-color:#0000ff ;
-  margin: 0px;  
+  margin: 0px;
 }
 
 .untermenu a{
