@@ -73,6 +73,15 @@ body {
   clear:both; 
 }
 
+.ecchi a{
+  font-size:15px;
+  padding-top: 15px;
+  width:110px;
+  height:20px;
+  position:relative;
+  clear:both;
+}
+
 #menu a:hover, .hauptmenu.on a {
   color:#000000;
   background-color: #00008b;
