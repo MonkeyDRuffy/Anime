@@ -1,13 +1,11 @@
 
 header {
-	margin-right: 700px;
-	margin-left:700px;
-	background-image: url(header3.jpg);
+	margin-right:  middle;
+	margin-left: middle;
+  background-repeat: url(header3.jpg);
 	height: 168px;
   cursor: pointer;
   outline: 1px;
-  outline-color: black;
-  outline-style: inset;
   
 }
 
