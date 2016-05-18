@@ -15,7 +15,7 @@ body {
 	font-family: Arial;
 	font.size: 30px;
 	text-align: center;
-	background-image: url(hintergrundNormal.jpg);
+	background: url(hintergrundNormal.jpg) no-repeat center center fixed;
   background-position: center center;
 	
 }
