@@ -1,11 +1,18 @@
 
 header {
+<<<<<<< HEAD
 	margin-right:  middle;
 	margin-left: middle;
   background-repeat: url(header3.jpg);
 	height: 168px;
   cursor: pointer;
   outline: 1px;
+=======
+margin-left: 200px;
+  cursor: pointer;
+  width: 1362px;
+  height: 454px;
+>>>>>>> origin/layout2.0
   
 }
 
@@ -15,16 +22,27 @@ body {
 	font-family: Arial;
 	font.size: 30px;
 	text-align: center;
+<<<<<<< HEAD
 	background: url(hintergrundNormal.jpg) no-repeat center center fixed;
   background-position: center center;
+=======
+	background-image: url(hintergrundNormal.jpg);
+background-attachment: fixed;
+>>>>>>> origin/layout2.0
 	
 }
 
 #menu {
   font-size:16px;
+<<<<<<< HEAD
   position:absolute;
   margin-left:600px;
   z-index: 1;
+=======
+  margin-top: 45px;
+  margin-left: 700px;
+
+>>>>>>> origin/layout2.0
 }
 
 #menu ul {
@@ -58,8 +76,13 @@ body {
   color:#ff1493;
   font-weight:bold;
   text-decoration:none;
+<<<<<<< HEAD
   background-color:#0000ff ;
   margin: 0px;
+=======
+  background-image:url(http://www.xaratemplate.com/xaratemplates/travel_agent/travel-agent-xara-web-templates_htm_files/2.png); ;
+  margin: 0px;  
+>>>>>>> origin/layout2.0
 }
 
 .untermenu a{
@@ -102,7 +125,7 @@ border-color: silver;
 border-style: inset;
 border-radius: 10px;
 opacity: 0.9;
-margin-top:45px;
+margin-top:92px;
 margin-left: 200px;
 margin-right: 200px;
 padding:10px;
