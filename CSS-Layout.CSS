@@ -1,12 +1,11 @@
 
 header {
-	margin-right:  middle;
-	margin-left: middle;
-  background-repeat: url(header3.jpg);
+	
+  background-image: url(header3.jpg) no-repeat;
+  background-position: ;
 	height: 168px;
   cursor: pointer;
   outline: 1px;
-  
 }
 
 
@@ -14,7 +13,6 @@ body {
     font-weight: bold;
 	font-family: Arial;
 	font.size: 30px;
-	text-align: center;
 	background: url(hintergrundNormal.jpg) no-repeat center center fixed;
   background-position: center center;
 	
@@ -91,7 +89,7 @@ body {
 }
 	
 div.text { 
-
+text-align: center;
 
 
 }
@@ -117,9 +115,13 @@ div.GH {
   margin-top:100px;
   margin-left: 250px;
   margin-right: 250px;
-  padding:10px;
+  padding:20px;
 }
 
 #Glist1 {
-  text-indent: -60em;
+  list-style-type: disc;
+}
+
+footer {
+  text-align: center;
 }
