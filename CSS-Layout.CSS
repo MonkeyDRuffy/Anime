@@ -120,6 +120,18 @@ div.GH {
   padding:20px;
 }
 
+.Ecchi {
+  background-color: #08243A;
+  border-width:2px;
+  border-color: white;
+  border-style: inset;
+  opacity: 0.9;
+  margin-top:100px;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding:20px;
+}
+
 #Glist1 {
   list-style-type: disc;
 }
