@@ -42,6 +42,8 @@ body {
   height: 30px;
   padding-top: 15px;
   text-align:center;
+  position: relative;
+  left: +150%;
 }
 
 .hauptmenu ul{
