@@ -129,7 +129,10 @@ div.GH {
   margin-left: 250px;
   margin-right: 250px;
   padding:20px;
-
+}
+#EcchiBild{
+float: left;
+width: 200px;
 }
 
 #Glist1 {
