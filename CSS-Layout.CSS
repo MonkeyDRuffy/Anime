@@ -1,7 +1,6 @@
 
 header {
-	
-  background-image: url(header3.jpg) no-repeat;
+  background-image: url(Bilder/header3.jpg) no-repeat;
 	height: 168px;
   cursor: pointer;
   outline: 1px;
@@ -13,7 +12,7 @@ body {
     font-weight: bold;
 	font-family: Arial;
 	font.size: 30px;
-	background: url(hintergrundNormal.jpg) no-repeat center center fixed;
+	background: url(Bilder/hintergrundNormal.jpg) no-repeat center center fixed;
   background-position: center center;
 	
 }
@@ -96,7 +95,7 @@ text-align: center;
 
 }
 div.rahmen {
-background-image: url(http://wallpapercave.com/wp/ucwC6G9.png);
+background-image: url(Bilder/ucwC6G9.png);
 border-width:2px;
 border-color: silver;
 border-style: inset;
