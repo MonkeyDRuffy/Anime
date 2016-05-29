@@ -9,7 +9,7 @@ header {
 
 
 body {
-    font-weight: bold;
+   font-weight: bold;
 	font-family: Arial;
 	font.size: 30px;
 	background: url(Bilder/hintergrundNormal.jpg) no-repeat center center fixed;
@@ -90,21 +90,21 @@ body {
 }
 	
 div.text { 
-text-align: center;
+  text-align: center;
 
 
 }
 div.rahmen {
-background-image: url(Bilder/ucwC6G9.png);
-border-width:2px;
-border-color: silver;
-border-style: inset;
-border-radius: 10px;
-opacity: 0.9;
-margin-top: 47px;
-margin-left: 200px;
-margin-right: 200px;
-padding:10px;
+  background-image: url(Bilder/ucwC6G9.png);
+  border-width:2px;
+  border-color: silver;
+  border-style: inset;
+  border-radius: 10px;
+  opacity: 0.9;
+  margin-top: 47px;
+  margin-left: 200px;
+  margin-right: 200px;
+  padding:10px;
 }
 
 div.GH {
@@ -129,6 +129,7 @@ div.GH {
   margin-left: 250px;
   margin-right: 250px;
   padding:20px;
+
 }
 
 #Glist1 {
