@@ -176,6 +176,13 @@ div.GH {
   width: 365px;
   z-index: 2;
 }
+
+#SportBild{
+  float: left;
+  width: 394px;
+  z-index: 2;
+}
+
 div.rahmen2{
   background-color: #08243A;
   border-width:2px;
