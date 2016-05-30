@@ -42,7 +42,10 @@ body {
   padding-top: 15px;
   text-align:center;
   position: relative;
-  left: +150%;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
 }
 
 .hauptmenu ul{
@@ -122,9 +125,16 @@ div.GH {
 
 #EcchiBild{
   float: left;
-  margin-left: 400px;
-  margin-top: 50px;
-  width: 450px;
+  margin-left:;
+  margin-top: ;
+  width: 350px;
+  z-index: 2;
+}
+#GourmetBild{
+  float: left;
+  margin-left:;
+  margin-top: ;
+  width: 335px;
   z-index: 2;
 }
 div.rahmen2{
@@ -137,7 +147,7 @@ div.rahmen2{
   margin-top: 47px;
   margin-left: 300px;
   margin-right: 200px;
-  padding: 25px;
+  padding: 10px;
   z-index: 1;
 }
 
