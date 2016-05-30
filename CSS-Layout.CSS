@@ -147,6 +147,12 @@ div.GH {
   z-index: 2;
 }
 
+#KodomoBild{
+  float: left;
+  width: 410px;
+  z-index: 2;
+}
+
 div.rahmen2{
   background-color: #08243A;
   border-width:2px;
