@@ -125,16 +125,19 @@ div.GH {
 
 #EcchiBild{
   float: left;
-  margin-left:;
-  margin-top: ;
   width: 350px;
   z-index: 2;
 }
+
 #GourmetBild{
   float: left;
-  margin-left:;
-  margin-top: ;
   width: 335px;
+  z-index: 2;
+}
+
+#HaremBild{
+  float: left;
+  width: 350px;
   z-index: 2;
 }
 div.rahmen2{
