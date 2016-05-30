@@ -140,6 +140,13 @@ div.GH {
   width: 350px;
   z-index: 2;
 }
+
+#JoseiBild{
+  float: left;
+  width: 389px;
+  z-index: 2;
+}
+
 div.rahmen2{
   background-color: #08243A;
   border-width:2px;
