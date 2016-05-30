@@ -119,22 +119,32 @@ div.GH {
   padding:20px;
 }
 
-.Ecchi {
+
+#EcchiBild{
+  float: left;
+  margin-left: 400px;
+  margin-top: 50px;
+  width: 450px;
+  z-index: 2;
+}
+div.rahmen2{
   background-color: #08243A;
   border-width:2px;
-  border-color: white;
+  border-color: silver;
   border-style: inset;
+  border-radius: 10px;
   opacity: 0.9;
-  margin-top:100px;
-  margin-left: 250px;
-  margin-right: 250px;
-  padding:20px;
-}
-#EcchiBild{
-float: left;
-width: 200px;
+  margin-top: 47px;
+  margin-left: 300px;
+  margin-right: 200px;
+  padding: 25px;
+  z-index: 1;
 }
 
+.EcchiText{
+  line-height: 85%;
+  
+}
 #Glist1 {
   list-style-type: disc;
 }
