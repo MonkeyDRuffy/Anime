@@ -158,6 +158,12 @@ div.GH {
   width: 385px;
   z-index: 2;
 }
+
+#SentaiBild{
+  float: left;
+  width: 370px;
+  z-index: 2;
+}
 div.rahmen2{
   background-color: #08243A;
   border-width:2px;
